@@ -1,0 +1,19 @@
+{
+  "name": "carlonuts2",
+  "version": "1.2.0",
+  "description": "\"A simple version of nuts\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Nuts"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
